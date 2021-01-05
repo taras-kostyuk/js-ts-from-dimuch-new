@@ -22,7 +22,7 @@ export type GovernmentBuildingsType ={
 export type CityType = {
     title: string
      houses :Array<HouseType>
-     governmentBuildings:Array<any>
+     governmentBuildings:Array<GovernmentBuildingsType>
      citizensNumber: number
 
  }

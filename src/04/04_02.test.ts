@@ -1,5 +1,5 @@
 import {CityType} from "../02/02_02";
-import {demolishHouseOnTheStreet, getBuildingsWithStaffCountGreaterThen, getHousesOnTheStreet} from "./04_02";
+import {demolishHouseOnTheStreet, getBuildingsWithStaffCountGreaterThen} from "./04_02";
 
 let city: CityType;
 beforeEach(() => {
